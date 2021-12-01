@@ -10,7 +10,7 @@ setup(
     name="image_fabio",
     version="0.0.1",
     author="Fabio_Tolentino",
-    author_email="my_email",
+    author_email="fabio.tolentino@uol.com.br",
     description="Pacote para tratar imagens",
     long_description=page_description,
     long_description_content_type="text/markdown",
