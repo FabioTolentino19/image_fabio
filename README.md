@@ -21,6 +21,10 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package
 pip install image_fabio
 ```
 
+## Changes
+
+0.0.2 to correct error on io.py
+
 ## Author
 Fabio_Tolentino
 
