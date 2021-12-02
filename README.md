@@ -25,7 +25,8 @@ pip install image_fabio
 
 0.0.1 first commit
 0.0.2 to correct error on io.py
-0.0.3 to correct error on transformation.py
+0.0.3 to correct error on tranformation.py
+0.0.4 to correct tranformation.py to transformation.py
 
 ## Author
 Fabio_Tolentino
