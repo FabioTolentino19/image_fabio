@@ -8,7 +8,7 @@ with open("requirements.txt") as f:
 
 setup(
     name="image_fabio",
-    version="0.0.1",
+    version="0.0.2",
     author="Fabio_Tolentino",
     author_email="fabio.tolentino@uol.com.br",
     description="Pacote para tratar imagens",
